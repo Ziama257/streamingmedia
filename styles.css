@@ -325,13 +325,11 @@ audio::-webkit-media-controls-enclosure {
     li ~ li{
         width: 120px;
     }
-    ul li{
-    }
+
     li h3 {
         visibility: visible;
     }
-    dl{
-    }
+
     .more{
         float: right;
         margin-right: 32px;;
@@ -367,17 +365,6 @@ audio::-webkit-media-controls-enclosure {
         padding: 5px;
         height: 50px;
         width: 225px;
-    }
-}
-@media screen and (min-width:375px) {
-    nav{
-
-    }
-    
-    nav ul {
-    }
-    li ~ li{
-    
     }
 }
 
